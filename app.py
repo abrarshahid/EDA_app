@@ -78,7 +78,7 @@ def main():
 		np.random.randn(20, 3),
 		columns=['a', 'b', 'c'])
 		st.area_chart(chart_data)
-		st.write('Graphs are The base here :sunglasses:')
+		st.write('Graphs are The base here! :sunglasses:')
 		st.write('Copyright: Abrar Shahid :wink:')
 		
 if __name__ == '__main__':
