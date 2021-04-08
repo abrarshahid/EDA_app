@@ -1,0 +1,8 @@
+streamlit==0.75.0
+pandas==1.1.4
+numpy==1.18.5
+codecs====1.3.2
+numpy==1.19.4
+pandas_profiling==2.11.0
+streamlit_pandas_profiling==0.1.1
+sweetviz==2.0.9
